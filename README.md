@@ -136,7 +136,87 @@ HTML_JS_Series/
 * Set the foundation for future projects where I’ll add **interactivity with JavaScript**
 
 ---
-
-✨ This was my **first complete website** in the series — and I’m excited to keep building more! 🚀
+Perfect 👍 Here’s a clean **Day 3 README** for your **Horizontal Scrolling Gallery** project:
 
 ---
+
+# 📅 Day 3 — Horizontal Scrolling Gallery
+
+**Project Date:** 31.08.2025
+**Duration:** \~60 minutes
+
+---
+
+## 📝 Project Description
+
+For Day 3 of my **30 Days, 30 Projects — HTML, CSS, JavaScript Series**, I built a **Horizontal Scrolling Image Gallery**.
+This project allows users to:
+
+* Scroll horizontally using the **mouse wheel**
+* Navigate with **Next** ⏭️ and **Back** ⏮️ buttons
+* Enjoy a **smooth scrolling animation**
+* See images in **grayscale** that turn **colorful & zoom** on hover 🎨
+
+This project combines **HTML (structure)**, **CSS (design & layout)**, and **JavaScript (scrolling behavior)**.
+
+---
+
+## 🛠️ Skills Learned
+
+* 🎯 DOM selection with `querySelector()` & `getElementById()`
+* 🖱️ Handling `wheel` events for horizontal scroll
+* 🚫 Using `preventDefault()` to stop vertical scroll
+* 📜 Understanding `scrollLeft` and smooth scrolling behavior
+* 🎨 CSS Grid & Flexbox combination for layout
+* ✨ Hover effects (`filter`, `transform`, `transition`)
+
+---
+
+## ⚡ Quick Emoji Cheat Sheet — CSS + JS Concepts
+
+### 🟦 JavaScript
+
+* 🖱️ `wheel` → detects mouse scroll
+* 🚫 `preventDefault()` → stops normal vertical scroll
+* ↔️ `scrollLeft` → moves container horizontally
+* 🖲️ `addEventListener()` → attach scroll & button actions
+* 🖼️ `querySelector()` → grab first matching element
+* ⏮️ `backBtn` / ⏭️ `nextBtn` → scroll buttons
+
+### 🎨 CSS
+
+* 📐 `margin` → space outside element
+* 🧱 `padding` → space inside element
+* 🧩 `display: grid` → arrange items in rows/columns
+* 🧭 `grid-gap` → spacing between grid cells
+* 📦 `flexbox` → align gallery & buttons
+* 🎬 `transition` → smooth effect
+* ✨ `:hover` → interactive styling
+* 🎨 `filter: grayscale()` → black & white effect
+
+---
+
+## 📂 Folder Structure
+
+```
+HTML_JS_Series/
+│── HorizontalGallery/   # Day 3 project
+│   │── index.html       # Main HTML file  # Scrolling logic
+│   │── styles.css       # Styling (layout, hover, effects)
+│   │── images/          # back.png, next.png, image-1.png … image-6.png
+│   │── README.md        # Project documentation
+```
+
+---
+
+## ✅ Takeaways
+
+* Learned to **convert vertical scroll → horizontal scroll**
+* Understood how to use **scrollLeft** for controlling horizontal movement
+* Practiced **CSS Grid + Flexbox** for a mixed layout
+* Added **hover animations** for better UI/UX
+* First real project combining **all 3 (HTML + CSS + JS) in sync** 🎉
+
+---
+
+
