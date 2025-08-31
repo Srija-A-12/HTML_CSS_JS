@@ -143,6 +143,7 @@ Perfect 👍 Here’s a clean **Day 3 README** for your **Horizontal Scrolling G
 # 📅 Day 3 — Horizontal Scrolling Gallery
 
 **Project Date:** 31.08.2025
+
 **Duration:** \~60 minutes
 
 ---
